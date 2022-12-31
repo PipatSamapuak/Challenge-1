@@ -1,5 +1,5 @@
-# Challenge-2
-Challenge-2 for bootcamp at Adelaide university
+# Challenge-1
+Challenge-1 for bootcamp at Adelaide university
 
 # User Story 
 As a marketing agency 
