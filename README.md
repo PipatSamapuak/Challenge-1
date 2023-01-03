@@ -9,7 +9,7 @@ I want a codebase that follows accessability standards
 So that our own site is optimized for search engine 
 
 # Acceptance Criteria 
-Given a webpage meets accessability standardss 
+Given a webpage meets accessability standards
 
 When I view the source code 
 
