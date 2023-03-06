@@ -31,3 +31,13 @@ Then they fall in sequential order
 When I view the title element 
 
 Then I find a concise, descriptive title 
+
+# Grading Requirement 
+
+None
+
+# Review
+
+The URL of the deployed application.
+
+The URL of the GitHub repository, with a unique name and a README that describes the project.
