@@ -1,4 +1,4 @@
-# Challenge-1
+# Challenge-1 Horeseon Marketing
 Challenge-1 for bootcamp at Adelaide university
 
 # User Story 
@@ -49,6 +49,5 @@ Example pictures of website
 <img width="453" alt="Screenshot 2566-03-06 at 14 18 19" src="https://user-images.githubusercontent.com/107624639/223018517-8b494b83-9b49-4d86-a640-545ee39c6d78.png">
 
 # License
-<img width="462" alt="Screenshot 2566-03-06 at 14 18 04" src="https://user-images.githubusercontent.com/107624639/223018511-23e1b4e9-dfb4-4e45-9a94-2174f19e25e4.png">
 
 Please review the license in repo
